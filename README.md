@@ -1,4 +1,3 @@
-Here’s a fun and interactive Markdown-style description for **Stacks**, including some ASCII-style diagrams to make it engaging:
 
 ---
 
